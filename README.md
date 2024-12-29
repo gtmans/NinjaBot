@@ -20,4 +20,4 @@ Because of these changes some of the 3D-parts were modified. You can download th
 You can use the original parts by making some ajustments (with saw and drill and take some parts away)
 Also changed parts to make bigger servo-arms fit and added wheelcovers.
 
-Original description and source: ![robotlk](https://robotlk.com/how-to-make-a-ninja-robot/)
+Original description and source: https://robotlk.com/how-to-make-a-ninja-robot/
