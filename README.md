@@ -2,6 +2,7 @@
 recreation of a Ninja Robot
 
 <img src="https://github.com/gtmans/NinjaBot/blob/main/Ninja_top_view.JPG" width="300" />
+<img src="https://github.com/gtmans/NinjaBot/blob/main/Ninja_front_view.JPG" width="300" />
 
 This code is an adaption of robotlk code and combines robotlk code Remote_XY (control by phone/app) and selfmove avoid code
 You can use left and right arm button to turn selfmove avoid on or off
