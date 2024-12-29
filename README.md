@@ -1,7 +1,7 @@
 # NinjaBot
 recreation of a Ninja Robot
 
-![Dual_Base](https://github.com/gtmans/NinjaBot/blob/main/Dual_Base-small.jpg)
+<img src="https://github.com/gtmans/NinjaBot/blob/main/Dual_Base-small.jpg" width="300" />
 
 This code is an adaption of robotlk code and combines robotlk code Remote_XY (control by phone/app) and selfmove avoid code
 You can use left and right arm button to turn selfmove avoid on or off
