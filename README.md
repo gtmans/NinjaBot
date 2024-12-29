@@ -18,6 +18,6 @@ ServoRightLegPin  on Gpio 5  (D1) // you can use original port
  
 Because of these changes some of the 3D-parts were modified. You can download them at Github/gtmans/NinjaBot/3D.
 You can use the original parts by making some ajustments (with saw and drill and take some parts away)
-Also changed parts to make bigger servo-arms fit and added wheelcovers.
+Also changed parts to make bigger servo-arms fit and added wheelcovers. Changed wheels for "tires" made of plastic drainage tube diameter 6mm. 
 
 Original description and source: https://robotlk.com/how-to-make-a-ninja-robot/
