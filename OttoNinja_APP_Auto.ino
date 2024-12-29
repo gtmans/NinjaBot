@@ -1,5 +1,5 @@
 /*
- * This code was adapted by Mans Rademaker dec 2024
+ * This code was adapted by Github/gtmans dec 2024
  * It combines robotlk code Remote_XY (control by phone/app) and selfmove avoid code
  * You can use left and right arm button to turn selfmove avoid on or off
  * since I made a breakout board for the D1 using Dual Base v2 for LOLIN(WEMOS)
