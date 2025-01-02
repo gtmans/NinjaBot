@@ -18,7 +18,7 @@ ServoRightLegPin  on Gpio 5  (D1) // you can use original port
  
 Because of these changes some of the 3D-parts were modified. You can download them at Github/gtmans/NinjaBot/3D.
 You can use the original parts by making some ajustments (with saw and drill and take some parts away)
-Also changed parts to make bigger servo-arms fit and added wheelcovers. Changed wheels for "tires" made of plastic drainage tube diameter 6mm. 
+Also changed parts to make bigger servo-arms fit and added wheelcovers. Changed wheels for "tires" made of plastic drainage tube diameter 6mm. Changed the switch-hole in main body part to fit 7x7 mm. switch and changed position of USB-C hole fot the D1 on its base.
 
 <img src="https://github.com/gtmans/NinjaBot/blob/main/Dual%20base%20breakout2_bb.png" width="600" />
 
