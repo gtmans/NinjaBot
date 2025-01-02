@@ -20,4 +20,6 @@ Because of these changes some of the 3D-parts were modified. You can download th
 You can use the original parts by making some ajustments (with saw and drill and take some parts away)
 Also changed parts to make bigger servo-arms fit and added wheelcovers. Changed wheels for "tires" made of plastic drainage tube diameter 6mm. 
 
+<img src="https://github.com/gtmans/NinjaBot/blob/main/Dual%20base%20breakout2_bb.png" width="600" />
+
 Original description and source: https://robotlk.com/how-to-make-a-ninja-robot/
