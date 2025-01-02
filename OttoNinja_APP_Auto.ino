@@ -48,7 +48,7 @@
 #include <Wire.h>
 
 // RemoteXY connection settings 
-#define REMOTEXY_WIFI_SSID      "NINJA MANS"
+#define REMOTEXY_WIFI_SSID      "NINJA COMBI"
 #define REMOTEXY_WIFI_PASSWORD  "12345678"
 #define REMOTEXY_SERVER_PORT    6377
 int lau,rau;
@@ -142,7 +142,6 @@ void setup()
   Serial.begin            (115200);
   while (!Serial)         {delay(20);}
   Serial.println          (__FILE__);
-  Serial.println          ("Ninja Mans Calib");
   Serial.println          ();
   pinMode                 (PwrLed, OUTPUT);
   pinMode                 (LedBuildIn,OUTPUT);
