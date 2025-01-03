@@ -15,7 +15,7 @@ There are some port changes (made possible by the breakoutboard) and an added po
 <BR><BR> 
 PwrLed            on Gpio 12 (D6)
 ServoRightFootPin on Gpio 4  (D2) // you can use original port Gpio 2 (D4) but that interferes with buildin led and uploading code
-ServoRightLegPin  on Gpio 5  (D1) // you can use original port. More info in the .ino file
+ServoRightLegPin  on Gpio 5  (D1) // you can use original port. <BR>More info in the .ino file https://github.com/gtmans/NinjaBot/blob/main/OttoNinja_APP_Auto.ino
 <BR><BR> 
 Because of these changes some of the 3D-parts were modified. You can download them at <BR>
 [Github](https://github.com/gtmans/NinjaBot/tree/main/3D) or at [Tinkercad](https://www.tinkercad.com/things/icQHIYeOzcS-ninja-bot-remake-public).
