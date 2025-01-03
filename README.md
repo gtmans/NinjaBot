@@ -24,5 +24,6 @@ The original parts can still be used by making some small ajustments (with saw a
 <BR><BR>
 <img src="https://github.com/gtmans/NinjaBot/blob/main/Dual%20base%20breakout2_bb.png" width="600" align=left  />
 <img src="https://github.com/gtmans/NinjaBot/blob/main/Dual_Base-small.jpg" width="275" align=right />
+<img src="https://github.com/gtmans/NinjaBot/blob/main/Ninja-TinkerCad.png" width="600"/>
 <BR>
 Original description and source: https://robotlk.com/how-to-make-a-ninja-robot/
