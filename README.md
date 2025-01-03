@@ -6,12 +6,12 @@ recreation of a Ninja Robot
 
 This code and 3D model is an adaption of robotlk code (link below) and 3D-parts and combines robotlk code Remote_XY (control by phone/app) and selfmove avoid code.
 You can use left and right arm button to turn selfmove avoid on or off.
-I made a breakout board for the D1 using Dual Base v2 for LOLIN(WEMOS)
+I also made a breakout board for the D1 using Dual Base v2 for LOLIN(WEMOS) for easy soldering.
 <BR><BR>
 <img src="https://github.com/gtmans/NinjaBot/blob/main/Dual_Base-empty-small.jpg" width="275" />
 
 <BR>
-There are some port changes (made possible by the breakoutboard) and an added Led (optional) to show if (battery)power is on or off. The led blinks depending on distance measurements
+There are some port changes (made possible by the breakoutboard) and an added powerled (optional) to show if (battery)power is on or off. The led blinks depending on distance measurements
 <BR><BR> 
 PwrLed            on Gpio 12 (D6)
 ServoRightFootPin on Gpio 4  (D2) // you can use original port Gpio 2 (D4) but that interferes with buildin led and uploading code
